@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017775297859",
+    "project_id": "notes-flutter-application",
+    "storage_bucket": "notes-flutter-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017775297859:android:5ca017652d1c6e95bbcbf6",
+        "android_client_info": {
+          "package_name": "hillary.co.ke.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017775297859-r4c478n09aohd0f395qu1i066d7bc2dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD-cGnSJagO-2G3HWuQJtaZYUf89S7PcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017775297859-r4c478n09aohd0f395qu1i066d7bc2dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
