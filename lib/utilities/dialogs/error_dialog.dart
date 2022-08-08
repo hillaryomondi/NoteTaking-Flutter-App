@@ -5,10 +5,12 @@ Future<void> showErrorDialog(
   BuildContext context,
   String text,
 ) {
-  return showGenericDialog(
+  return showGenericDialog<void>(
     context: context,
-    title: title,
-    content: content,
-    optionsBuilder: optionsBuilder,
+    title: 'An error occurred',
+    content: text,
+    optionsBuilder: () => {
+      'OK': null,
+    },
   );
 }
